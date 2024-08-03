@@ -3,7 +3,7 @@
 
 ## A. Description of the Project
 
-This project is an e-commerce backend application developed using Java and Spring Boot. It follows REST API best practices and provides CRUD operations for managing accounts, including different types of accounts (Checking Account and Savings Account). The application uses JPA inheritance to handle the parent-child relationship among models. It also includes robust error handling, authentication using JWT with Spring Security, and is tested with unit and integration tests. Data is stored in a MySQL database.
+This project is a backend application developed using Java and Spring Boot. It follows REST API best practices and provides CRUD operations for managing accounts, including different types of accounts (Checking Account and Savings Account). The application uses JPA inheritance to handle the parent-child relationship among models. It also includes robust error handling, authentication using JWT with Spring Security, and is tested with unit and integration tests. Data is stored in a MySQL database.
 
 ## B. Class Diagram
 
@@ -23,8 +23,8 @@ The class diagram represents the inheritance structure between `Account` (parent
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/ecommerce-backend.git
-   cd ecommerce-backend
+   git clone https://github.com/Joseph0x90/java-project-github-repo-amazon.git
+   cd java-project-github-repo-amazon
    ```
 
 2. **Configure the database:**
